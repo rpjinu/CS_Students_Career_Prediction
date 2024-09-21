@@ -1,7 +1,7 @@
 # CS_Students_Career_Prediction
 "Predicting career outcomes for computer science students based on academic and demographic data."\
 
-<img src="" width=1200>
+<img src="https://github.com/rpjinu/CS_Students_Career_Prediction/blob/main/computer-science.jpg" width=1200>
 
 #Computer Science Students Dataset:-
 
