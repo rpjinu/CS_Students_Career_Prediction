@@ -1,6 +1,8 @@
 # CS_Students_Career_Prediction
 "Predicting career outcomes for computer science students based on academic and demographic data."\
 
+<img src="" width=1200>
+
 #Computer Science Students Dataset:-
 
 This dataset contains information about computer science students from a fictional university. It includes attributes such as Student ID, Name, Gender, Age, GPA, Major, Interested Domain, Projects undertaken, and skills in Python, SQL, and Java. The dataset aims to provide insights into the academic performance, career aspirations, and technical skills of students in the field of computer science.
